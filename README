@@ -1,0 +1,10 @@
+This is a Basic HTML5 Robotic Arm Simulator.
+
+The only functionality that is currently offered is in "Joint Mode".
+
+STEPS:
+
+1: Press the 'Man/Halt' button until the Joint light is on
+2: Select a Joint by pressing either the 'Y2', 'Z3' or 'RY5' buttons (only joints 2, 3, and 5 work since it's on a 2D canvas)
+3: Use the Drive buttons (the ones with the + and - signs) to move the joints
+4: The more you drink, the funner it gets
